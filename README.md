@@ -12,3 +12,6 @@ All the libraries used here are already available in the Anaconda distribution o
 
 # Data Used
 The data from the Kaggle ML and DS Survey 2019 is used here.
+
+# Medium Post
+The findings from the data can be found [here](https://medium.com/@divyashah572/5-key-trends-in-data-science-every-beginner-should-know-8a3ad2b5b156)

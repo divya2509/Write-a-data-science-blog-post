@@ -1,5 +1,5 @@
 # Introduction
-This repository tries to answer some of the questions that might pop-up in someone's mind when starting to learn Data Science. We basically use Data Science to get answer to our questions about the field of Data Science. 
+This repository tries to answer some of the questions that might pop-up in someone's mind when starting to learn Data Science. We basically use Data Science to get answers to our questions about the field of Data Science. 
 
 # Installation
 All the libraries used here are already available in the Anaconda distribution of python except pandas-profiling(used for generating profile reports). But the Jupyter Notebook itself takes care of downloading the required package and hence no external installation is required.

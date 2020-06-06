@@ -1,3 +1,4 @@
+# Introduction
 This repository tries to answer some of the questions that might pop-up in someone's mind when starting to learn Data Science. We basically use Data Science to get answer to our questions about the field of Data Science. 
 
 # Installation

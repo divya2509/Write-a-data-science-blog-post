@@ -1,4 +1,4 @@
-This repository is created for Udacity's Data Scientist Nanodegree Project
+This repository tries to answer some of the questions that might pop-up in someone's mind when starting to learn Data Science. We basically use Data Science to get answer to our questions about the field of Data Science. 
 
 # Installation
 All the libraries used here are already available in the Anaconda distribution of python except pandas-profiling(used for generating profile reports). But the Jupyter Notebook itself takes care of downloading the required package and hence no external installation is required.
@@ -11,7 +11,7 @@ All the libraries used here are already available in the Anaconda distribution o
 5. What are the most used IDE's according to experience in Data Science?
 
 # Data Used
-The data from the Kaggle ML and DS Survey 2019 is used here.
+The data from the [Kaggle ML and DS Survey 2019](https://www.kaggle.com/c/kaggle-survey-2019/data) is used here.
 
-# Medium Post
+# Summary of the results
 The findings from the data can be found [here](https://medium.com/@divyashah572/5-key-trends-in-data-science-every-beginner-should-know-8a3ad2b5b156)
